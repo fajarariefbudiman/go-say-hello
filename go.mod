@@ -1,3 +1,3 @@
-module github.com/fajarariefbudiman/go-say-hello.git
+module github.com/fajarariefbudiman/go-say-hello
 
 go 1.13
